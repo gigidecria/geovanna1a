@@ -3,7 +3,13 @@ header{
 	backgroud: #BBBBBB;
 }
 
+nav li{
+	display: inline;
+margin: 0 0 0 15PX;
 
+
+
+}
 
 
 
